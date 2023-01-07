@@ -1,2 +1,4 @@
-# viditpatel.github.io
-Source code for my personal website
+
+Source code for my personal website.
+
+Inspiration and guidance from Bedimcode. 
